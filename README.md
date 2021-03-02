@@ -5,9 +5,19 @@
 -->
 
 
-- 🎓 I'm a maths graduate
-- 🌱 I’m currently a student at the [Black Codher Bootcamp](https://blackcodher.com/)
+- 🎓 I'm a maths graduate currently a student at the [Black Codher Bootcamp](https://blackcodher.com/)
+- 🌱 I’m currently learning [Python](https://www.coursera.org/learn/data-analysis-with-python)
 - 💬 Ask me about Javascript, React, HTML
 - 📫 How to reach me: message me on [linkedIn](https://www.linkedin.com/in/hawa-bah-bah/)
 - 😄 Pronouns: she/her
 - 🌍 I love travelling
+
+
+
+
+
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hawa-bah&theme=tokyonight)
+
+![Visitor Count](https://profile-counter.glitch.me/{hawa-bah}/count.svg)
