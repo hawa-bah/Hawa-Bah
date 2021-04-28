@@ -6,7 +6,6 @@
 
 
 - 🎓 I'm a maths graduate currently a student at the [Black Codher Bootcamp](https://blackcodher.com/)
-- 🌱 I’m currently learning [Python](https://www.coursera.org/learn/data-analysis-with-python)
 - 💬 Ask me about Javascript, React, HTML
 - 📫 How to reach me: message me on [linkedIn](https://www.linkedin.com/in/hawa-bah-bah/)
 - 😄 Pronouns: she/her
